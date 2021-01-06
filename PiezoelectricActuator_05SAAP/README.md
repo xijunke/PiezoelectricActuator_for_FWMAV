@@ -11,4 +11,4 @@
 ![Energy_improvement_geometry_factor_3D](https://github.com/xijunke/PiezoelectricActuator_for_FWMAV/blob/master/PiezoelectricActuator_05SAAP/pic/Energy_improvement_geometry_factor_3D.png)
 **Figure 3. Energy improvement geometry factor 3D contour**
 
-R.J. Wood, E. Steltz, R.S. Fearing£¬"Optimal energy density piezoelectric bending actuators",Sensors and Actuators A 119 (2005) 476¨C488. doi:10.1016/j.sna.2004.10.024
+R.J. Wood, E. Steltz, R.S. Fearing,"Optimal energy density piezoelectric bending actuators",Sensors and Actuators A 119 (2005) 476¨C488. doi:10.1016/j.sna.2004.10.024
