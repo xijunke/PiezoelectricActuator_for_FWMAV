@@ -6,7 +6,7 @@
 
 **Figure 1. Effective mass for rectangular cantilever beam 3D**
 
-!ffective_mass_for_rectangular_cantilever_beam_2D_contour](https://github.com/xijunke/PiezoelectricActuator_for_FWMAV/blob/master/PiezoelectricActuator_05ICRA/pic/Effective_mass_for_rectangular_cantilever_beam_3D.png)
+![Effective_mass_for_rectangular_cantilever_beam_2D_contour](https://github.com/xijunke/PiezoelectricActuator_for_FWMAV/blob/master/PiezoelectricActuator_05ICRA/pic/Effective_mass_for_rectangular_cantilever_beam_3D.png)
 
 **Figure 2. Effective mass for rectangular cantilever beam 2D contour**
 
