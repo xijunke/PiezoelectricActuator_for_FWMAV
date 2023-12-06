@@ -1,4 +1,4 @@
-%%M_effective
+%%有效质量计算
 clear all; clc;
 dr=0.25;
 % wr=0.5;
