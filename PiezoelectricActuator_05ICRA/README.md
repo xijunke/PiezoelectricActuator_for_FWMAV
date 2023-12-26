@@ -4,6 +4,12 @@
 
 ![Energy_density_output](https://github.com/xijunke/PiezoelectricActuator_for_FWMAV/blob/master/PiezoelectricActuator_05SAAP/pic_pdf_eps_tif_png/Energy_density_output.png)
 
+![Energy_density_output](https://github.com/xijunke/PiezoelectricActuator_for_FWMAV/blob/master/PiezoelectricActuator_05ICRA/png/M_eff_for_tapering_cantilever_beam_2D_contour.png)
+
+![Energy_density_output](https://github.com/xijunke/PiezoelectricActuator_for_FWMAV/blob/master/PiezoelectricActuator_05ICRA/png/M_eff_for_rectangular_cantilever_beam_3D.png)
+
+![Energy_density_output](https://github.com/xijunke/PiezoelectricActuator_for_FWMAV/blob/master/PiezoelectricActuator_05ICRA/png/M_eff_for_rectangular_cantilever_beam_2D_contour.png)
+
 ![M_eff_for_rectangular_cantilever_beam_3D](https://github.com/xijunke/PiezoelectricActuator_for_FWMAV/blob/master/PiezoelectricActuator_05ICRA/pic_pdf_eps_jpg_tif_png/M_eff_for_rectangular_cantilever_beam_2D_contour.png)
 
 **Figure 1. Effective mass for rectangular cantilever beam 3D**
