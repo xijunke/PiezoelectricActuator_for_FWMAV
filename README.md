@@ -30,15 +30,15 @@ Here, the code is written for the following paper:
 **Figure 3. Effective mass for tapering cantilever beam 2D contour**
 
 
-![M_eff_for_rectangular_cantilever_beam_3D](https://github.com/xijunke/PiezoelectricActuator_for_FWMAV/blob/master/PiezoelectricActuator_05ICRA/pic/M_eff_for_rectangular_cantilever_beam_2D_contour.png)
+![M_eff_for_rectangular_cantilever_beam_3D](https://github.com/xijunke/PiezoelectricActuator_for_FWMAV/blob/master/PiezoelectricActuator_05ICRA/pic/M_eff_for_rectangular_cantilever_beam_2D_contour.jpg)
 
 **Figure 1. Effective mass for rectangular cantilever beam 3D**
 
-![M_eff_for_rectangular_cantilever_beam_2D_contour](https://github.com/xijunke/PiezoelectricActuator_for_FWMAV/blob/master/PiezoelectricActuator_05ICRA/pic/M_eff_for_rectangular_cantilever_beam_3D.png)
+![M_eff_for_rectangular_cantilever_beam_2D_contour](https://github.com/xijunke/PiezoelectricActuator_for_FWMAV/blob/master/PiezoelectricActuator_05ICRA/pic/M_eff_for_rectangular_cantilever_beam_3D.tif)
 
 **Figure 2. Effective mass for rectangular cantilever beam 2D contour**
 
-![M_eff_for_tapering_cantilever_beam_2D_contour](https://github.com/xijunke/PiezoelectricActuator_for_FWMAV/blob/master/PiezoelectricActuator_05ICRA/pic/M_eff_for_tapering_cantilever_beam_2D_contour.png)
+![M_eff_for_tapering_cantilever_beam_2D_contour](https://github.com/xijunke/PiezoelectricActuator_for_FWMAV/blob/master/PiezoelectricActuator_05ICRA/pic/M_eff_for_tapering_cantilever_beam_2D_contour.jpg)
 
 **Figure 3. Effective mass for tapering cantilever beam 2D contour**
 
