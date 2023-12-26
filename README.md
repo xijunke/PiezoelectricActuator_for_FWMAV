@@ -1,4 +1,4 @@
- # PiezoelectricActuator_for_FWMAV
+# PiezoelectricActuator_for_FWMAV
 
 For the piezoelectric-driven Flapping Wing Micro Aerial vehicle (FWMAV), the optimal design and theoretical calculation of the curved double-cantilever piezoelectric actuator and the torsional piezoelectric actuator were carried out, and the calculation code of the optimal size design under the optimal energy density was prepared. And the relevant curve are plotted respectively.
 
