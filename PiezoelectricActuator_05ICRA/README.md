@@ -13,8 +13,7 @@
 
 **Figure 2. Effective mass for rectangular cantilever beam 2D contour**
 
-![M_eff_for_tapering_cantilever_beam_2D_contour]
-(https://github.com/xijunke/PiezoelectricActuator_for_FWMAV/blob/master/PiezoelectricActuator_05ICRA/pic_pdf_eps_jpg_tif_png/M_eff_for_tapering_cantilever_beam_2D_contour.png)
+![M_eff_for_tapering_cantilever_beam_2D_contour](https://github.com/xijunke/PiezoelectricActuator_for_FWMAV/blob/master/PiezoelectricActuator_05ICRA/pic_pdf_eps_jpg_tif_png/M_eff_for_tapering_cantilever_beam_2D_contour.png)
 
 **Figure 3. Effective mass for tapering cantilever beam 2D contour**
 
